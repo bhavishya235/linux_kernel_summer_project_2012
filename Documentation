@@ -2,4 +2,9 @@
 
 	Setting git-hub account , downloading git and learning about it ie. how to create repository , addition of files , adding them to stage area ,commit files,and to upload them to git-hub.
 
-	Reading about operating system from Modern Operating System 2nd Ed By Tanebaum and Linux.Kernel.Development.3rd.Edition. I learned about kernel , process architecture, kernel tree, and basics of file system,shell and deadlocks.   
+22nd May:
+	Reading about operating system from Modern Operating System 2nd Ed By Tanebaum and Linux.Kernel.Development.3rd.Edition. I learned about kernel , process architecture, kernel tree, and basics of file system,shell and deadlocks. Also read about system calls,types:process management,file management,file system and miscelianeous.
+	
+24th May	
+	Read about configuring linux and how to install it. It took hours to configure the new linux tree , and then after configuring it we installed it. Even after installing it when we rebooted ubuntu although it gave an option for booting with new kernel ,the new kernel was not loading.
+	 
