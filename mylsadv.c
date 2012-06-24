@@ -1,3 +1,5 @@
+/*
+	this program lists the contents of a directory with their size*/
 #include<stdlib.h>
 #include<stdio.h>
 #include<unistd.h>
